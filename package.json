@@ -1,0 +1,1 @@
+{"description":"One-line joke about office life for the make.fun Office Joke Open bounty.","engines":{"node":">=22"},"name":"make-the-ai-judge-laugh-the-office-joke-open-westi","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
